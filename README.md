@@ -1,4 +1,4 @@
-#  Warehouse Operations Dashboard
+# Tesla Warehouse Operations Dashboard
 
 Supply chain analytics and Six Sigma project analyzing warehouse efficiency, processing time, and operational errors using **SQL, Python, and Tableau**.
 
